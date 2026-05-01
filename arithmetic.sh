@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 number1=3
 number2=2
 echo $((number1 + number2))
